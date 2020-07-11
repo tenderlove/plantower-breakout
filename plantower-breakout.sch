@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Plantower PM2.5 Breakout"
+Date "2020-07-10"
+Rev "1"
 Comp ""
 Comment1 ""
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "https://creativecommons.org/licenses/by/4.0/"
+Comment4 "CC BY 4.3"
 $EndDescr
 $Comp
 L my-symbols:Plantower-PM2.5 U1
